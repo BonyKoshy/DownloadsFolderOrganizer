@@ -1,0 +1,17 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Environment
+.venv/
+.env
+
+# Misc
+organizer_log.txt
