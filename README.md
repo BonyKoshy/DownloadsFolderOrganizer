@@ -17,19 +17,10 @@ Built with **Python + Tkinter**, distributed as a **standalone Windows `.exe`**.
 
 ---
 
-## 🎯 Before vs After
-
-| Before | After |
-|:------:|:-----:|
-| ![Before Sorting](./assets/before.png) | ![After Sorting](./assets/after.png) |
-
-*(Use real screenshots of your Downloads folder before/after sorting.)*
-
----
-
 ## 🖥️ Screenshot
 
-![App Screenshot](./assets/app_screenshot.png)
+![App Screenshot](./img/ss1.jpg)
+![App Screenshot](./img/ss2.jpg)
 
 *(Show the UI with folder picker, buttons, progress bar, dark mode, etc.)*
 
