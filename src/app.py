@@ -22,7 +22,7 @@ def organize_files(folder_path, progress_bar, status_label, delete_empty):
     moved_files_log.clear()
 
     files = [f for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f))]
-    total_files = len(files)
+    total_files = len(files)    
 
     if total_files == 0:
         messagebox.showinfo("Info", "No files to organize!")
