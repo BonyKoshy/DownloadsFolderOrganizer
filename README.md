@@ -22,6 +22,7 @@ Built with **Python + Tkinter**, distributed as a **standalone Windows `.exe`**.
 ![App Screenshot](./img/ss1.jpg)
 ![App Screenshot](./img/ss2.jpg)
 
+*(Show the UI with folder picker, buttons, progress bar, dark mode, etc.)*
 
 ---
 
